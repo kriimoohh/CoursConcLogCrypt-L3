@@ -5,6 +5,7 @@
  */
 package cryptosymetrique;
 
+import Graphical_Interfaces.Menu;
 import javax.swing.JFileChooser;
 
 /**
@@ -18,7 +19,7 @@ public class CryptoSymetrique {
      */
     public static void main(String[] args) {
        
-        new KeyGeneration().keygeneration("./kriimoohh2.key");
+        //new KeyGeneration().keygeneration("./kriimoohh2.key");
         
         //Chiffrement chiffrement = new Chiffrement();
         //chiffrement.runCipher("./kriimoohh.key","./test.txt","./chiffre.txt");
@@ -26,8 +27,7 @@ public class CryptoSymetrique {
         //Dechiffrement dechiffrement = new  Dechiffrement();
         //dechiffrement.runCipher("./kriimoohh.key","./chiffre.txt","./dechiffre.txt");
         
-        JFileChooser jfc = new JFileChooser();
-        jfc.showOpenDialog(jfc);
+        new Menu().setVisible(true);
                 
     }
     

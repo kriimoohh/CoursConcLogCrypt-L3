@@ -2,6 +2,15 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/cryptosymetrique/KeyGeneration.java</file>
+            <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/interfaces/ICryptoConfig.java</file>
+            <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/interfaces/IKeyGeneration.java</file>
+            <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/interfaces/IChiffrement.java</file>
+            <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/cryptosymetrique/CryptoSymetrique.java</file>
+            <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/Graphical_Interfaces/Enrypt.java</file>
+            <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/cryptosymetrique/Chiffrement.java</file>
+            <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/cryptosymetrique/Dechiffrement.java</file>
+        </group>
     </open-files>
 </project-private>
