@@ -8,9 +8,11 @@
             <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/interfaces/IKeyGeneration.java</file>
             <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/interfaces/IChiffrement.java</file>
             <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/cryptosymetrique/CryptoSymetrique.java</file>
-            <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/Graphical_Interfaces/Enrypt.java</file>
+            <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/Graphical_Interfaces/Menu.java</file>
             <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/cryptosymetrique/Chiffrement.java</file>
+            <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/Graphical_Interfaces/Decrypt.java</file>
             <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/cryptosymetrique/Dechiffrement.java</file>
+            <file>file:/home/kriimoohh/Desktop/Dev_Web/Java/L3%20-%20TDSI/CoursConcLogCrypt%20L3/src/Graphical_Interfaces/Encrypt.java</file>
         </group>
     </open-files>
 </project-private>
