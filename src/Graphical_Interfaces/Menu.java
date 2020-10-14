@@ -117,7 +117,7 @@ public class Menu extends javax.swing.JFrame {
         Path = jfc.getSelectedFile().getPath();
         Destination.setText("Key saved in "+Path);
         KeyGeneration keygen = new KeyGeneration();
-        Path = Path+"//karim.you";
+        Path = Path+"//ma_cle.key";
         keygen.keygeneration(Path);
         keygen.recupkey(Path);
     }//GEN-LAST:event_jButton1ActionPerformed

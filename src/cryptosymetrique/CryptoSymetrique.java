@@ -6,7 +6,6 @@
 package cryptosymetrique;
 
 import Graphical_Interfaces.Menu;
-import javax.swing.JFileChooser;
 
 /**
  *
